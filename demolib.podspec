@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'demolib'
-  s.version          = '0.0.3-alpha.1'
+  s.version          = '0.0.3'
   s.summary          = 'A short description of demolib.'
 
 # This description is used to generate tags and improve search results.
