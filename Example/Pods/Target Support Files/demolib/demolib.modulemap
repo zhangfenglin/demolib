@@ -1,0 +1,6 @@
+framework module demolib {
+  umbrella header "demolib-umbrella.h"
+
+  export *
+  module * { export * }
+}

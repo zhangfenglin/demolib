@@ -1,0 +1,22 @@
+{
+  "name": "demolib",
+  "version": "0.1.0",
+  "summary": "A short description of demolib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhangfenglin/demolib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangfenglin": "zfl1129@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/zhangfenglin/demolib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "demolib/Classes/**/*"
+}

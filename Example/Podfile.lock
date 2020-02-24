@@ -1,0 +1,16 @@
+PODS:
+  - demolib (0.1.0)
+
+DEPENDENCIES:
+  - demolib (from `../`)
+
+EXTERNAL SOURCES:
+  demolib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  demolib: fa4c5573d426b10c7ab22e01535a4c0983ef2d67
+
+PODFILE CHECKSUM: 1aa9a3ed351e448fff673391b69ccbd8abdc3179
+
+COCOAPODS: 1.8.4

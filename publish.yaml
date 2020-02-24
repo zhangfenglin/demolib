@@ -1,0 +1,5 @@
+xal-specs:
+    src: https://github.com/zhangfenglin/Specs.git
+    src-repo-name: apus-spec-objc
+    framework: https://github.com/zhangfenglin/Specs.git
+    framework-repo-name: machbirdx
